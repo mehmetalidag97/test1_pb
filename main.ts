@@ -1,6 +1,5 @@
 namespace sa_test {
-    export function plotAt(index: number): 
-    
+    export function plotAt(index: number):   
 void {
     index |= 0
     const y = Math.floor(index / 5);
